@@ -1,0 +1,11 @@
+{
+  "name": "fleur-npm-test",
+  "version": "1.0.1",
+  "description": "fleur-npm-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "fleruwang",
+  "license": "ISC"
+}
